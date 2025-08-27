@@ -6,7 +6,6 @@
 
 # NipaPlay-Reload
 
-
 <div align="center">
   <img src="https://count.getloli.com/get/@nipaplay?theme=moebooru" alt="访问统计" />
 </div>
